@@ -24,7 +24,7 @@ If an area swaps ownership, then all other civilizations lose their tiles on tha
 
 ### War
 
-If during war one civ is the only one to have military units on an area, this civ has occupied this area. The previous owner loses ability to work any tiles in this area, and new owner can either expand their city borders to this area, or settle a new city in this area.
+If during war one civ is the only one to have military units on an area, this civ has occupied this area. The previous owner loses ability to work any tiles in this area, and new owner can either expand their city borders to this area, or settle a new city in this area. This gives half the warmonger penalties associated with taking a city.
 
 ### Trading
 
@@ -36,4 +36,8 @@ Each area receives immigration from nearby, populated areas based on the sum of 
 
 ### Missions
 
-Each area type has score for how "culturally similar" they are. Mountain ranges, oceans etc totally separate the people, while grasslands act as connectors. Your people will want to expand onto connected areas, and succeeding at that gives you bunch of amenities. This mechanic is eerily similar to the one presented in Rise and Fall era-specific missions, and as we learn more about how it works, I think it would be best to integrate this one with those Golden age mechanics of the new expansion.
+Each area type has score for how "culturally similar" they are. Mountain ranges, oceans etc totally separate the people, while grasslands act as connectors. Your people will want to expand onto connected areas. Not doing so will reduce amenities in connected cities for both civs, but the civ with higher culture output gets reduced amount of negative amenities. Declaring a war, or having an alliance reduces the negative amenities from this mechanic by 75%. Having a declaration of friendship reduces negative amenities by 25%
+
+### Casus Belli
+
+With Feodalism unlocks new Casus Belli, "Declare War of Forward Settling", which reduces the cost of declaring war and taking over areas other civ controls, but has significantly higher cost for capturing cities.
